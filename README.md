@@ -3,3 +3,9 @@ This project is community experiment to practice the creation of Unity Package w
 
 Find the tutorial, here: 
 https://eloistree.page.link/hellopackage
+
+
+Package to use:
+- "be.eloistree.2020_05_28_magicdoor" :"https://gitlab.com/EloiStree/2020_05_28_MagicDoor.git"
+  - "be.eloistree.jimmyscreamfps":"https://gitlab.com/EloiStree/2020_05_28_JimmyScreamFPS.git"
+  - "be.eloistree.isinview":"https://gitlab.com/EloiStree/2020_05_28_IsInView.git"
