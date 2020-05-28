@@ -11,4 +11,4 @@ Package to use:
   - "be.eloistree.isinview":"https://gitlab.com/EloiStree/2020_05_28_IsInView.git"
   
   ## Structure
-  ![WorkshopStructureMagicDoor](https://user-images.githubusercontent.com/20149493/83193092-c5f9a680-a136-11ea-8662-5c6302383402.png)
+ ![WorkshopStructureMagicDoor](https://user-images.githubusercontent.com/20149493/83193215-f04b6400-a136-11ea-8885-539d17116301.jpg)
