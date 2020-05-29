@@ -2,8 +2,9 @@
   "dependencies": {
     "be.eloistree.isinview": "https://gitlab.com/EloiStree/2020_05_28_IsInView.git",
     "be.eloistree.jimmyscreamfps": "https://gitlab.com/EloiStree/2020_05_28_JimmyScreamFPS.git",
-    "be.eloistree.quickgitutility": "https://github.com/eloistree/2019_07_21_QuickGitUtility.git",
-    "be.eloistree.unitypackagefacilitator": "https://github.com/eloistree/2019_07_21_UnityPackageFacilitator.git",
+    "be.eloistree.magicdooreloistreeexample": "https://gitlab.com/EloiStree/2020_05_28_MagicDoor_EloiStree.git",
+    "be.eloistree.quickgitutility": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
+    "be.eloistree.unitypackagefacilitator": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
     "com.unity.ide.vscode": "1.2.0",
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.2.14",
@@ -38,13 +39,17 @@
       "revision": "HEAD",
       "hash": "2e45a549bef23e71bbae9cee4a08f524047c8641"
     },
+    "be.eloistree.magicdooreloistreeexample": {
+      "revision": "HEAD",
+      "hash": "4d6580b1876bb05600fd1e02877b580d9d5f5bcc"
+    },
     "be.eloistree.quickgitutility": {
       "revision": "HEAD",
-      "hash": "d2bac95ae925a194c1b0b4af82e9c586b518ad5d"
+      "hash": "28ec2916cdcf7d65fd9d66776597cadb24ffefe2"
     },
     "be.eloistree.unitypackagefacilitator": {
       "revision": "HEAD",
-      "hash": "02baf58af7c8057238346d687846a76f4295d7d6"
+      "hash": "bedabe41131ef1c3cc949a348738fc407f145b5a"
     }
   }
 }
