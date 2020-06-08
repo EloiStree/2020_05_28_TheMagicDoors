@@ -1,4 +1,4 @@
-# 2020_05_28_TheMagicDoors
+# 2020 05 28: TheMagicDoors
 This project is community experiment to practice the creation of Unity Package with dependencies.
 Find the tutorial, here: 
 https://eloistree.page.link/hellopackage
