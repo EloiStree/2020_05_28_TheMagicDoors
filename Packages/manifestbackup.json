@@ -1,19 +1,18 @@
 {
   "dependencies": {
-    "be.coloniuslory.room": "https://github.com/KyanosAlpha/2020_06_02_ExoLoryRoom.git",
-    "be.corentinh.room": "https://github.com/marcymon/2020_06_02_CorentinMagicDoor.git",
-    "be.cyrillacroix.roomexamplecyril": "https://github.com/CyrilLcrx/2020_06_02_CyrilMagicRoom.git",
-    "be.eloistree.ffmpeginunity": "https://gitlab.com/eloistree/2020_06_07_FFmpegInUnity.git",
+
+
     "be.eloistree.isinview": "https://gitlab.com/EloiStree/2020_05_28_IsInView.git",
     "be.eloistree.jimmyscreamfps": "https://gitlab.com/EloiStree/2020_05_28_JimmyScreamFPS.git",
-    "be.eloistree.launchbatandahk": "https://gitlab.com/eloistree/2020_03_22_LaunchBatAndAhk.git",
     "be.eloistree.magicdoorscore": "https://gitlab.com/eloistree/2020_05_28_MagicDoorsCore.git",
     "be.eloistree.magicdoorsroompattern": "https://github.com/EloiStree/2020_05_28_MagicDoorsRoomPattern.git",
     "be.eloistree.quickgitutility": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
-    "be.eloistree.stereorecorder": "https://gitlab.com/eloistree/2020_06_06_StereoRecorder.git",
-    "be.eloistree.stereoviewer": "https://gitlab.com/eloistree/2020_06_06_StereoViewer.git",
-    "be.eloistree.unitydirectorystorageutility": "https://gitlab.com/eloistree/2020_04_28_UnityDirectoryStorageUtility.git",
     "be.eloistree.unitypackagefacilitator": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
+
+    
+    "be.coloniuslory.room": "https://github.com/KyanosAlpha/2020_06_02_ExoLoryRoom.git",
+    "be.corentinh.room": "https://github.com/marcymon/2020_06_02_CorentinMagicDoor.git",
+    "be.cyrillacroix.roomexamplecyril": "https://github.com/CyrilLcrx/2020_06_02_CyrilMagicRoom.git",
     "be.epistache.room": "https://github.com/Epistache/Eloi_Techno_Epistache.git",
     "be.laetitia.room": "https://github.com/xPixelle/2020_06_02_LaetitiaRoom_Test.git",
     "be.lorenaquaranta.roomexamplelorena": "https://github.com/Lorena1804/2020_06_02_QuarantaLorena_MagicDoorRoom.git",
@@ -23,6 +22,15 @@
     "be.noefalesse.magicroom": "https://github.com/IkaNamTheIncongruous/Noe_Falesse_Git_Magicroom.git",
     "be.vansantensebastien.sebar": "https://github.com/sebastien-vansanten/2020_06_02_MyMagicRoom_Seb.git",
     "be.wostynthomas.room": "https://github.com/WeeweeLSP/2020_06_02_UnityGitExo.git",
+
+
+    "be.eloistree.stereoviewer":"https://gitlab.com/eloistree/2020_06_06_StereoViewer.git",
+    "be.eloistree.stereorecorder":"https://gitlab.com/eloistree/2020_06_06_StereoRecorder.git",
+    "be.eloistree.unitydirectorystorageutility":"https://gitlab.com/eloistree/2020_04_28_UnityDirectoryStorageUtility.git",
+    "be.eloistree.launchbatandahk":"https://gitlab.com/eloistree/2020_03_22_LaunchBatAndAhk.git",
+    "be.eloistree.ffmpeginunity":"https://gitlab.com/eloistree/2020_06_07_FFmpegInUnity.git",
+
+
     "com.unity.ide.vscode": "1.2.0",
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.2.14",
@@ -57,13 +65,13 @@
       "revision": "HEAD",
       "hash": "c197457cb4c8cc0b6839990596da3232a9aa65c6"
     },
+    "be.eloistree.magicdoorsroompattern": {
+      "revision": "HEAD",
+      "hash": "bcd4d50239c3c7c813b1c2c749ec7fd76f453fea"
+    },
     "be.cyrillacroix.roomexamplecyril": {
       "revision": "HEAD",
       "hash": "ef99a2839d65453475e2cee47496c46dc4f518c9"
-    },
-    "be.eloistree.ffmpeginunity": {
-      "revision": "HEAD",
-      "hash": "121cd350e011ac867903036840c53252be24c96a"
     },
     "be.eloistree.isinview": {
       "revision": "HEAD",
@@ -73,33 +81,13 @@
       "revision": "HEAD",
       "hash": "2e45a549bef23e71bbae9cee4a08f524047c8641"
     },
-    "be.eloistree.launchbatandahk": {
-      "revision": "HEAD",
-      "hash": "b715b52ec064bf3a9bbfb0b4b092651e72ee182b"
-    },
     "be.eloistree.magicdoorscore": {
       "revision": "HEAD",
       "hash": "9d64c411838ddcadd0346275d67ff1a723b51d7c"
     },
-    "be.eloistree.magicdoorsroompattern": {
-      "revision": "HEAD",
-      "hash": "bcd4d50239c3c7c813b1c2c749ec7fd76f453fea"
-    },
     "be.eloistree.quickgitutility": {
       "revision": "HEAD",
       "hash": "9af1ead66e51669617f5b0b34cd1fb40cd366eb3"
-    },
-    "be.eloistree.stereorecorder": {
-      "revision": "HEAD",
-      "hash": "5be80f905d0cd7fd72666d1ae774eab35f22ea6e"
-    },
-    "be.eloistree.stereoviewer": {
-      "revision": "HEAD",
-      "hash": "4cb67f20b79f6e1f6e73eea313bc53fa69b90552"
-    },
-    "be.eloistree.unitydirectorystorageutility": {
-      "revision": "HEAD",
-      "hash": "b72a520ba77f17bc1f39733bc9c2f475555b2629"
     },
     "be.eloistree.unitypackagefacilitator": {
       "revision": "HEAD",
