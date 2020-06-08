@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1895949987716074644
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1895949987716074642}
+  - component: {fileID: 1895949987716074643}
+  m_Layer: 0
+  m_Name: Magic Room Loader
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1895949987716074642
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1895949987716074644}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.9298592, y: 1.7133932, z: -2.909049}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1895949987716074643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1895949987716074644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15209f09403ee554f91d8289d7e4153e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_directLinkToPrefabs:
+  - {fileID: 5318726972793820047, guid: 3e2d6bdf40a9fc34d95c25b3516c0b47, type: 3}
+  - {fileID: 5366109804637016170, guid: 53d3e3d1ddb869140b55a0a0859ff0ec, type: 3}
+  - {fileID: 3180568045760826728, guid: ad5b4f87a28925e4f9997fb45dc38e01, type: 3}
+  - {fileID: 1495666901484146270, guid: 55fae7ea268da7243af944bb9cabd8fb, type: 3}
+  - {fileID: 8497868085938653116, guid: 84cb2a66a9ec90441847d35d1c8151ca, type: 3}
+  - {fileID: 8416976437938705242, guid: cd45e3856d2ede140af3f16247d0c5b5, type: 3}
+  - {fileID: 32125003852238219, guid: f8d11f4108d8a5d449d228e0c2b3536f, type: 3}
+  - {fileID: 5318726972793820047, guid: 3e2d6bdf40a9fc34d95c25b3516c0b47, type: 3}
+  m_folderTLoadPrefabsOf:
+  - MagicRoomsDemo
+  - MagicDoorPrototype
+  - MagicDoorRelease
+  - ' MagicDoorShowable'
+  m_resourcesRoomPrefabs: []

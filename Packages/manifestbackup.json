@@ -31,6 +31,12 @@
     "be.eloistree.ffmpeginunity":"https://gitlab.com/eloistree/2020_06_07_FFmpegInUnity.git",
 
 
+    "be.eloistree.androidturnaroundaccelero": "https://gitlab.com/EloiStree/2020_06_05_AndroidTurnAroundAccelero.git",
+    "be.eloistree.readytouseandroidassetdisplayer":"https://gitlab.com/EloiStree/2020_06_08_ReadyToUseAndroidAssetDisplayer.git", 
+ 
+
+
+    "com.unity.modules.video": "1.0.0",
     "com.unity.ide.vscode": "1.2.0",
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.2.14",
