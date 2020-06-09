@@ -4,12 +4,12 @@
     "be.corentinh.room": "https://github.com/marcymon/2020_06_02_CorentinMagicDoor.git",
     "be.cyrillacroix.roomexamplecyril": "https://github.com/CyrilLcrx/2020_06_02_CyrilMagicRoom.git",
     "be.eloistree.androidturnaroundaccelero": "https://gitlab.com/EloiStree/2020_06_05_AndroidTurnAroundAccelero.git",
+    "be.eloistree.calibrationtools": "https://gitlab.com/eloistree/2020_06_06_CalibrationTools.git",
     "be.eloistree.ffmpeginunity": "https://gitlab.com/eloistree/2020_06_07_FFmpegInUnity.git",
     "be.eloistree.isinview": "https://gitlab.com/EloiStree/2020_05_28_IsInView.git",
     "be.eloistree.jimmyscreamfps": "https://gitlab.com/EloiStree/2020_05_28_JimmyScreamFPS.git",
     "be.eloistree.launchbatandahk": "https://gitlab.com/eloistree/2020_03_22_LaunchBatAndAhk.git",
     "be.eloistree.magicdoorscore": "https://gitlab.com/eloistree/2020_05_28_MagicDoorsCore.git",
-    "be.eloistree.magicdoorsroompattern": "https://github.com/EloiStree/2020_05_28_MagicDoorsRoomPattern.git",
     "be.eloistree.quickgitutility": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
     "be.eloistree.readytouseandroidassetdisplayer": "https://gitlab.com/EloiStree/2020_06_08_ReadyToUseAndroidAssetDisplayer.git",
     "be.eloistree.stereorecorder": "https://gitlab.com/eloistree/2020_06_06_StereoRecorder.git",
@@ -62,6 +62,14 @@
       "revision": "HEAD",
       "hash": "ef99a2839d65453475e2cee47496c46dc4f518c9"
     },
+    "be.eloistree.androidturnaroundaccelero": {
+      "revision": "HEAD",
+      "hash": "807ae964d51366735ff28ddcbaddd94b4da023e9"
+    },
+    "be.eloistree.calibrationtools": {
+      "revision": "HEAD",
+      "hash": "55eb6c556eb1bacd04e0ff2930a11ffde7e62212"
+    },
     "be.eloistree.ffmpeginunity": {
       "revision": "HEAD",
       "hash": "121cd350e011ac867903036840c53252be24c96a"
@@ -82,13 +90,13 @@
       "revision": "HEAD",
       "hash": "9d64c411838ddcadd0346275d67ff1a723b51d7c"
     },
-    "be.eloistree.magicdoorsroompattern": {
-      "revision": "HEAD",
-      "hash": "bcd4d50239c3c7c813b1c2c749ec7fd76f453fea"
-    },
     "be.eloistree.quickgitutility": {
       "revision": "HEAD",
       "hash": "9af1ead66e51669617f5b0b34cd1fb40cd366eb3"
+    },
+    "be.eloistree.readytouseandroidassetdisplayer": {
+      "revision": "HEAD",
+      "hash": "630f3e7875d4dc3cbe1c37404e811f13abeea440"
     },
     "be.eloistree.stereorecorder": {
       "revision": "HEAD",
@@ -141,14 +149,6 @@
     "be.wostynthomas.room": {
       "revision": "HEAD",
       "hash": "976b844c9110bda0c111d40f6d4051422ea19dec"
-    },
-    "be.eloistree.androidturnaroundaccelero": {
-      "revision": "HEAD",
-      "hash": "807ae964d51366735ff28ddcbaddd94b4da023e9"
-    },
-    "be.eloistree.readytouseandroidassetdisplayer": {
-      "revision": "HEAD",
-      "hash": "630f3e7875d4dc3cbe1c37404e811f13abeea440"
     }
   }
 }
