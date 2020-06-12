@@ -258,7 +258,7 @@ MonoBehaviour:
   m_magicSwitcher: {fileID: 1319282622}
   m_contentRoomARef: {fileID: 5283446264916690881}
   m_contentRoomBRef: {fileID: 5283446264831034351}
-  m_doorOfficalPosition: {fileID: 478762903}
+  m_doorOfficalPosition: {fileID: 1092873382}
 --- !u!4 &183868006
 Transform:
   m_ObjectHideFlags: 0
@@ -633,12 +633,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!1 &478762903 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2114548469216181618, guid: 6f5b53b8ffad1374683d1ddf306d33a0,
-    type: 3}
-  m_PrefabInstance: {fileID: 2114548468737420005}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &482890758
 GameObject:
   m_ObjectHideFlags: 0
@@ -1406,6 +1400,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 284245094959415434, guid: f170cbcd82e04c747929ee1eddd17c2c,
     type: 3}
   m_PrefabInstance: {fileID: 6149719306609778461}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1092873382 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2114548469872285685, guid: 6f5b53b8ffad1374683d1ddf306d33a0,
+    type: 3}
+  m_PrefabInstance: {fileID: 2114548468737420005}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &1147534609 stripped
 Transform:

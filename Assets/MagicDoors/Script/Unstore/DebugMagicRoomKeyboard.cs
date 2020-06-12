@@ -13,7 +13,6 @@ public class DebugMagicRoomKeyboard : MonoBehaviour
     public GameObject m_contentRoomBRef;
     public GameObject m_doorOfficalPosition;
 
-
     void Update()
     {
         if(Input.GetKeyDown(KeyCode.L)){
@@ -63,8 +62,6 @@ public class DebugMagicRoomKeyboard : MonoBehaviour
         }
         if (Input.GetButton("Fire1")) {
             m_destroyer.CreateAnInstance();
-
-
         }
 
     }

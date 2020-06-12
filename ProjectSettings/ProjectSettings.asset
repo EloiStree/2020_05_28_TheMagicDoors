@@ -165,7 +165,8 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: be.EloiExperiment.MagicDoorExperiment
+    Android: be.eloistree.magicdoorgroupworkshop
+    Standalone: be.eloistree.magicdoorgroupworkshop
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 25
