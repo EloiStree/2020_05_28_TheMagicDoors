@@ -57,25 +57,21 @@
     "com.unity.modules.xr": "1.0.0"
   },
   "lock": {
-    "be.eloistree.lookingeyesforvr": {
-      "revision": "HEAD",
-      "hash": "44dac6e007ea0b4b3fad004380c1cae74a88dab6"
-    },
     "be.3p0d.room": {
       "revision": "HEAD",
-      "hash": "426d1cb656e3f973424ea505ecffa74da0a2e17e"
+      "hash": "11787178ddd454556ba519e8c1d1176b4bfed9ff"
     },
     "be.coloniuslory.room": {
       "revision": "HEAD",
-      "hash": "255c6c38fa63be5b5fe40968394fd729d672c112"
+      "hash": "e9c33d20233808450f855c83171684b974c2b1b7"
     },
     "be.corentinh.room": {
       "revision": "HEAD",
-      "hash": "0c77f43731952e14c3e90b17ae206c68f895eda5"
+      "hash": "19c558b9cf0199b9fc6d387a93dcfea819c5c884"
     },
     "be.cyrillacroix.roomexamplecyril": {
       "revision": "HEAD",
-      "hash": "56997678386485c1958a04c98d88a463b2df2d9d"
+      "hash": "37aaff7bf49254b5f392b66610e0dd9507785360"
     },
     "be.eloistree.androidturnaroundaccelero": {
       "revision": "HEAD",
@@ -105,13 +101,13 @@
       "revision": "HEAD",
       "hash": "b715b52ec064bf3a9bbfb0b4b092651e72ee182b"
     },
+    "be.eloistree.lookingeyesforvr": {
+      "revision": "HEAD",
+      "hash": "44dac6e007ea0b4b3fad004380c1cae74a88dab6"
+    },
     "be.eloistree.magicdoorscore": {
       "revision": "HEAD",
       "hash": "fb278dc59547780e49f2737d9d8986c262c54b07"
-    },
-    "be.eloistree.magicdoorsroompattern": {
-      "revision": "HEAD",
-      "hash": "624b3432be947a9c44ad002587e31f119c21b72f"
     },
     "be.eloistree.quickgitutility": {
       "revision": "HEAD",
@@ -143,27 +139,27 @@
     },
     "be.epistache.room": {
       "revision": "HEAD",
-      "hash": "0c7a543a9f9526005e66204d624dc32808ba6a1e"
+      "hash": "315b6793b895184324059e48345ce8e5e5eb1c5c"
     },
     "be.laetitia.room": {
       "revision": "HEAD",
-      "hash": "edf72a1bf3f14338bae0e190087f8f39da4189f3"
+      "hash": "bdb280b7a821c900a431fc8eca065859c6c0a948"
     },
     "be.lorenaquaranta.roomexamplelorena": {
       "revision": "HEAD",
-      "hash": "c2108eb3442fe944af1adaa714eae564a2e1baaa"
+      "hash": "afde44f9d9120ed927a89af3703967629303a995"
     },
     "be.louislebrun.firstroom": {
       "revision": "HEAD",
-      "hash": "5676cef5a6d8cedbaa453bd504969af2a10ed088"
+      "hash": "90b86eeb33c3ccbcddb8667ab9cb08f87e296ee2"
     },
     "be.minaoumzil.roomnumberonetest": {
       "revision": "HEAD",
-      "hash": "a885778667cc028e4158fe444bed2ae4e5ab4976"
+      "hash": "df4bab9e8d8a650b2b64d7ee47c5800379d9bb14"
     },
     "be.nihiilus.anthonyroom": {
       "revision": "HEAD",
-      "hash": "104e747eda0e2f6f66fa128cdc9e22e927efbd51"
+      "hash": "e370fc91a84086733b130c7fab2fa60487916351"
     },
     "be.noefalesse.magicroom": {
       "revision": "HEAD",
@@ -171,11 +167,15 @@
     },
     "be.vansantensebastien.sebar": {
       "revision": "HEAD",
-      "hash": "c8d699e7ef2894d51735b636747449201824e90c"
+      "hash": "e4bd4bc5c7ab702c5d1f4f1d8fc0a71777b5c59b"
     },
     "be.wostynthomas.room": {
       "revision": "HEAD",
       "hash": "976b844c9110bda0c111d40f6d4051422ea19dec"
+    },
+    "be.eloistree.magicdoorsroompattern": {
+      "revision": "HEAD",
+      "hash": "e8ca58048be106b0cb46bc212ea5a6fba9d9faf3"
     }
   }
 }

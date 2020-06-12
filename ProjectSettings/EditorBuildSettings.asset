@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/MagicDoors/Scene/SceneVisitDoubleRooms.unity
     guid: dee231183edfb54488eebb27bca5dcd9
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9383696b38838b8428de4876fd0b77ba,
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8399761ac7adda7498e6fa3dda26a670,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 410ab431d9f3af147ba72924168290cd,
       type: 2}

@@ -8,14 +8,31 @@ public class DebugMagicRoomKeyboard : MonoBehaviour
     public JimmyScreamer m_jimmy;
     public PerfsDestroy m_destroyer;
     public GameObject [] m_debugCanvas;
-    public MagicDoubleDoorSwitcher m_magicSwitcher;
     public GameObject m_contentRoomARef;
     public GameObject m_contentRoomBRef;
     public GameObject m_doorOfficalPosition;
 
+    public bool m_displayBestLoader=true;
+    public MagicDoubleDoorSwitcher m_magicSwitcher;
+    public MagicRoomLoader m_allStudentTechno;
+    public MagicRoomLoader m_bestOf;
+    
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.L)){
+        if (Input.GetKeyDown(KeyCode.O))
+        {
+            m_displayBestLoader = !m_displayBestLoader;
+            if (m_displayBestLoader)
+            {
+                m_magicSwitcher.m_roomsQueue = m_bestOf.GetRoomsInShuffleQueue(true);
+                m_magicSwitcher.m_roomLoader = (m_bestOf);
+            }
+            else {
+                m_magicSwitcher.m_roomsQueue = m_allStudentTechno.GetRoomsInShuffleQueue(true);
+                m_magicSwitcher.m_roomLoader = (m_allStudentTechno);
+            }
+        }
+        if (Input.GetKeyDown(KeyCode.L)){
             SwitchGameObject(m_defautLight);
         }
         if (Input.GetKeyDown(KeyCode.J)|| Input.GetKeyDown(KeyCode.KeypadPeriod))
