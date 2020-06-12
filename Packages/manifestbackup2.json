@@ -1,0 +1,169 @@
+{
+  "dependencies": {
+    "be.3p0d.room": "https://github.com/3P0D/TNTC_exo_gitPackageRoom.git",
+    "be.coloniuslory.room": "https://github.com/KyanosAlpha/2020_06_02_ExoLoryRoom.git",
+    "be.corentinh.room": "https://github.com/marcymon/2020_06_02_CorentinMagicDoor.git",
+    "be.cyrillacroix.roomexamplecyril": "https://github.com/CyrilLcrx/2020_06_02_CyrilMagicRoom.git",
+    "be.eloistree.androidturnaroundaccelero": "https://gitlab.com/EloiStree/2020_06_05_AndroidTurnAroundAccelero.git",
+    "be.eloistree.calibrationtools": "https://gitlab.com/eloistree/2020_06_06_CalibrationTools.git",
+    "be.eloistree.debugcharactervr": "https://gitlab.com/EloiStree/2020_06_09_DebugCharacterVR.git",
+    "be.eloistree.ffmpeginunity": "https://gitlab.com/eloistree/2020_06_07_FFmpegInUnity.git",
+    "be.eloistree.isinview": "https://gitlab.com/EloiStree/2020_05_28_IsInView.git",
+    "be.eloistree.jimmyscreamfps": "https://gitlab.com/EloiStree/2020_05_28_JimmyScreamFPS.git",
+    "be.eloistree.launchbatandahk": "https://gitlab.com/eloistree/2020_03_22_LaunchBatAndAhk.git",
+    "be.eloistree.magicdoorscore": "https://gitlab.com/eloistree/2020_05_28_MagicDoorsCore.git",
+    "be.eloistree.magicdoorsroompattern": "https://github.com/EloiStree/2020_05_28_MagicDoorsRoomPattern.git",
+    "be.eloistree.quickgitutility": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
+    "be.eloistree.readytouseandroidassetdisplayer": "https://gitlab.com/EloiStree/2020_06_08_ReadyToUseAndroidAssetDisplayer.git",
+    "be.eloistree.stereorecorder": "https://gitlab.com/eloistree/2020_06_06_StereoRecorder.git",
+    "be.eloistree.stereoviewer": "https://gitlab.com/eloistree/2020_06_06_StereoViewer.git",
+    "be.eloistree.unitydirectorystorageutility": "https://gitlab.com/eloistree/2020_04_28_UnityDirectoryStorageUtility.git",
+    "be.eloistree.unitypackagefacilitator": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
+    "be.epistache.room": "https://github.com/Epistache/Eloi_Techno_Epistache.git",
+    "be.laetitia.room": "https://github.com/xPixelle/2020_06_02_LaetitiaRoom_Test.git",
+    "be.lorenaquaranta.roomexamplelorena": "https://github.com/Lorena1804/2020_06_02_QuarantaLorena_MagicDoorRoom.git",
+    "be.louislebrun.firstroom": "https://github.com/Rudafox/2020_06_02_My_magic_room.git",
+    "be.minaoumzil.roomnumberonetest": "https://github.com/Medusart/2020_06_02_Mina_Oumzil.git",
+    "be.nihiilus.anthonyroom": "https://github.com/Nihiilus/2020_06_02_MagicDoorRoom_Anthony.git",
+    "be.noefalesse.magicroom": "https://github.com/IkaNamTheIncongruous/Noe_Falesse_Git_Magicroom.git",
+    "be.vansantensebastien.sebar": "https://github.com/sebastien-vansanten/2020_06_02_MyMagicRoom_Seb.git",
+    "be.wostynthomas.room": "https://github.com/WeeweeLSP/2020_06_02_UnityGitExo.git",
+    "com.unity.ide.vscode": "1.2.0",
+    "com.unity.textmeshpro": "2.0.1",
+    "com.unity.timeline": "1.2.14",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.assetbundle": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.director": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.screencapture": "1.0.0",
+    "com.unity.modules.tilemap": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.umbra": "1.0.0",
+    "com.unity.modules.unitywebrequestwww": "1.0.0",
+    "com.unity.modules.video": "1.0.0",
+    "com.unity.modules.vr": "1.0.0",
+    "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "be.coloniuslory.room": {
+      "revision": "HEAD",
+      "hash": "3b633a1464fee6510ea7c70aa476f91ae8f3aed7"
+    },
+    "be.corentinh.room": {
+      "revision": "HEAD",
+      "hash": "c197457cb4c8cc0b6839990596da3232a9aa65c6"
+    },
+    "be.cyrillacroix.roomexamplecyril": {
+      "revision": "HEAD",
+      "hash": "ef99a2839d65453475e2cee47496c46dc4f518c9"
+    },
+    "be.eloistree.androidturnaroundaccelero": {
+      "revision": "HEAD",
+      "hash": "807ae964d51366735ff28ddcbaddd94b4da023e9"
+    },
+    "be.eloistree.calibrationtools": {
+      "revision": "HEAD",
+      "hash": "55eb6c556eb1bacd04e0ff2930a11ffde7e62212"
+    },
+    "be.eloistree.debugcharactervr": {
+      "revision": "HEAD",
+      "hash": "6e400c355ccd9cb32c9e6db2d7c99a36f043348f"
+    },
+    "be.eloistree.ffmpeginunity": {
+      "revision": "HEAD",
+      "hash": "121cd350e011ac867903036840c53252be24c96a"
+    },
+    "be.eloistree.isinview": {
+      "revision": "HEAD",
+      "hash": "25227fe892f025d104cf1dbd816fc8b6ad3be4c5"
+    },
+    "be.eloistree.jimmyscreamfps": {
+      "revision": "HEAD",
+      "hash": "2e45a549bef23e71bbae9cee4a08f524047c8641"
+    },
+    "be.eloistree.launchbatandahk": {
+      "revision": "HEAD",
+      "hash": "b715b52ec064bf3a9bbfb0b4b092651e72ee182b"
+    },
+    "be.eloistree.magicdoorscore": {
+      "revision": "HEAD",
+      "hash": "9d64c411838ddcadd0346275d67ff1a723b51d7c"
+    },
+    "be.eloistree.magicdoorsroompattern": {
+      "revision": "HEAD",
+      "hash": "f0b1196e414504f1ce6bf5290e76471620d4bc2f"
+    },
+    "be.eloistree.quickgitutility": {
+      "revision": "HEAD",
+      "hash": "9af1ead66e51669617f5b0b34cd1fb40cd366eb3"
+    },
+    "be.eloistree.readytouseandroidassetdisplayer": {
+      "revision": "HEAD",
+      "hash": "630f3e7875d4dc3cbe1c37404e811f13abeea440"
+    },
+    "be.eloistree.stereorecorder": {
+      "revision": "HEAD",
+      "hash": "5be80f905d0cd7fd72666d1ae774eab35f22ea6e"
+    },
+    "be.eloistree.stereoviewer": {
+      "revision": "HEAD",
+      "hash": "4cb67f20b79f6e1f6e73eea313bc53fa69b90552"
+    },
+    "be.eloistree.unitydirectorystorageutility": {
+      "revision": "HEAD",
+      "hash": "b72a520ba77f17bc1f39733bc9c2f475555b2629"
+    },
+    "be.eloistree.unitypackagefacilitator": {
+      "revision": "HEAD",
+      "hash": "11e8314a940c791a96907d85673c297f4b7f9a42"
+    },
+    "be.epistache.room": {
+      "revision": "HEAD",
+      "hash": "47d868a765c1bceebc00f0d60daa18a021594534"
+    },
+    "be.laetitia.room": {
+      "revision": "HEAD",
+      "hash": "8d604678b41ad4f8ad5d3ed425eadf87c94ff011"
+    },
+    "be.lorenaquaranta.roomexamplelorena": {
+      "revision": "HEAD",
+      "hash": "d9fe216b11ef0ccde0f370dac1d5860a190748c2"
+    },
+    "be.louislebrun.firstroom": {
+      "revision": "HEAD",
+      "hash": "633dae3cc8a9b3fc0bbd5182997a5b17f8d5e15a"
+    },
+    "be.minaoumzil.roomnumberonetest": {
+      "revision": "HEAD",
+      "hash": "37bbec0bc1471374daf9ff19e71a678dcda5890c"
+    },
+    "be.nihiilus.anthonyroom": {
+      "revision": "HEAD",
+      "hash": "b86645177ff5d990f1d441b0d7eddb2bc645784a"
+    },
+    "be.noefalesse.magicroom": {
+      "revision": "HEAD",
+      "hash": "c7f6875e5ee35d5bac5dd9653d916d9fc3a06f52"
+    },
+    "be.vansantensebastien.sebar": {
+      "revision": "HEAD",
+      "hash": "f25e33fa73e276499f3af8ce2d32f92be3489287"
+    },
+    "be.wostynthomas.room": {
+      "revision": "HEAD",
+      "hash": "976b844c9110bda0c111d40f6d4051422ea19dec"
+    },
+    "be.3p0d.room": {
+      "revision": "HEAD",
+      "hash": "31c844bb75c8131736fd9a4078f53bbd0bfb207f"
+    }
+  }
+}

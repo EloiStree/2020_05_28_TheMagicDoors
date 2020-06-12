@@ -24,7 +24,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1895949987716074644}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.9298592, y: 1.7133932, z: -2.909049}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -46,15 +46,9 @@ MonoBehaviour:
   m_directLinkToPrefabs:
   - {fileID: 5318726972793820047, guid: 3e2d6bdf40a9fc34d95c25b3516c0b47, type: 3}
   - {fileID: 5366109804637016170, guid: 53d3e3d1ddb869140b55a0a0859ff0ec, type: 3}
-  - {fileID: 3180568045760826728, guid: ad5b4f87a28925e4f9997fb45dc38e01, type: 3}
-  - {fileID: 1495666901484146270, guid: 55fae7ea268da7243af944bb9cabd8fb, type: 3}
-  - {fileID: 8497868085938653116, guid: 84cb2a66a9ec90441847d35d1c8151ca, type: 3}
-  - {fileID: 8416976437938705242, guid: cd45e3856d2ede140af3f16247d0c5b5, type: 3}
-  - {fileID: 32125003852238219, guid: f8d11f4108d8a5d449d228e0c2b3536f, type: 3}
-  - {fileID: 5318726972793820047, guid: 3e2d6bdf40a9fc34d95c25b3516c0b47, type: 3}
   m_folderTLoadPrefabsOf:
   - MagicRoomsDemo
   - MagicDoorPrototype
   - MagicDoorRelease
-  - ' MagicDoorShowable'
+  - MagicDoorShowable
   m_resourcesRoomPrefabs: []

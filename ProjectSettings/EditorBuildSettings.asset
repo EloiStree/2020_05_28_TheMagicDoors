@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MagicDoors/Scene/SceneVisitOneByOne.unity
-    guid: 69bd82fb749457a4481e3504531efeb3
+    path: Assets/MagicDoors/Scene/SceneVisitDoubleRooms.unity
+    guid: dee231183edfb54488eebb27bca5dcd9
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9383696b38838b8428de4876fd0b77ba,
       type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fe7d5449ec1aa304b82fe1ea67ebcd8b,
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 410ab431d9f3af147ba72924168290cd,
       type: 2}

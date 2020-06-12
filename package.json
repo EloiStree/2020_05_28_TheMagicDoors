@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.debugcharactervr",                              
+  "displayName": "Debug Character VR",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Useful to quickly drag and drop a character to move around in the VR Scene. Not clean at all and not fit for product. Just for Debug.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

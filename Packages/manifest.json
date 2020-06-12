@@ -1,21 +1,26 @@
 {
   "dependencies": {
+    "be.3p0d.room": "https://github.com/3P0D/TNTC_exo_gitPackageRoom.git",
     "be.coloniuslory.room": "https://github.com/KyanosAlpha/2020_06_02_ExoLoryRoom.git",
     "be.corentinh.room": "https://github.com/marcymon/2020_06_02_CorentinMagicDoor.git",
     "be.cyrillacroix.roomexamplecyril": "https://github.com/CyrilLcrx/2020_06_02_CyrilMagicRoom.git",
     "be.eloistree.androidturnaroundaccelero": "https://gitlab.com/EloiStree/2020_06_05_AndroidTurnAroundAccelero.git",
-    "be.eloistree.calibrationtools": "https://gitlab.com/eloistree/2020_06_06_CalibrationTools.git",
+    "be.eloistree.debugcharactervr": "https://gitlab.com/EloiStree/2020_06_09_DebugCharacterVR.git",
     "be.eloistree.ffmpeginunity": "https://gitlab.com/eloistree/2020_06_07_FFmpegInUnity.git",
+    "be.eloistree.gizmotools": "https://gitlab.com/eloistree/2020_06_06_GizmoTools.git",
     "be.eloistree.isinview": "https://gitlab.com/EloiStree/2020_05_28_IsInView.git",
     "be.eloistree.jimmyscreamfps": "https://gitlab.com/EloiStree/2020_05_28_JimmyScreamFPS.git",
     "be.eloistree.launchbatandahk": "https://gitlab.com/eloistree/2020_03_22_LaunchBatAndAhk.git",
+    "be.eloistree.lookingeyesforvr": "https://gitlab.com/EloiStree/2020_06_10_LookingEyesForVR.git",
     "be.eloistree.magicdoorscore": "https://gitlab.com/eloistree/2020_05_28_MagicDoorsCore.git",
-    "be.eloistree.quickgitutility": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
+    "be.eloistree.magicdoorsroompattern": "https://github.com/EloiStree/2020_05_28_MagicDoorsRoomPattern.git",
+    "be.eloistree.quickgitutility": "https://www.github.com/eloistree/2019_07_21_QuickGitUtility.git",
     "be.eloistree.readytouseandroidassetdisplayer": "https://gitlab.com/EloiStree/2020_06_08_ReadyToUseAndroidAssetDisplayer.git",
     "be.eloistree.stereorecorder": "https://gitlab.com/eloistree/2020_06_06_StereoRecorder.git",
     "be.eloistree.stereoviewer": "https://gitlab.com/eloistree/2020_06_06_StereoViewer.git",
     "be.eloistree.unitydirectorystorageutility": "https://gitlab.com/eloistree/2020_04_28_UnityDirectoryStorageUtility.git",
-    "be.eloistree.unitypackagefacilitator": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
+    "be.eloistree.unitypackagefacilitator": "https://www.github.com/eloistree/2019_07_21_UnityPackageFacilitator.git",
+    "be.eloistree.virtualrealitydebughands": "https://gitlab.com/eloistree/2019_06_30_VirtualRealityDebugHands.git",
     "be.epistache.room": "https://github.com/Epistache/Eloi_Techno_Epistache.git",
     "be.laetitia.room": "https://github.com/xPixelle/2020_06_02_LaetitiaRoom_Test.git",
     "be.lorenaquaranta.roomexamplelorena": "https://github.com/Lorena1804/2020_06_02_QuarantaLorena_MagicDoorRoom.git",
@@ -29,6 +34,8 @@
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.2.14",
     "com.unity.ugui": "1.0.0",
+    "com.unity.xr.management": "3.2.10",
+    "com.unity.xr.oculus": "1.3.4",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.assetbundle": "1.0.0",
@@ -50,29 +57,41 @@
     "com.unity.modules.xr": "1.0.0"
   },
   "lock": {
+    "be.eloistree.lookingeyesforvr": {
+      "revision": "HEAD",
+      "hash": "44dac6e007ea0b4b3fad004380c1cae74a88dab6"
+    },
+    "be.3p0d.room": {
+      "revision": "HEAD",
+      "hash": "426d1cb656e3f973424ea505ecffa74da0a2e17e"
+    },
     "be.coloniuslory.room": {
       "revision": "HEAD",
-      "hash": "3b633a1464fee6510ea7c70aa476f91ae8f3aed7"
+      "hash": "255c6c38fa63be5b5fe40968394fd729d672c112"
     },
     "be.corentinh.room": {
       "revision": "HEAD",
-      "hash": "c197457cb4c8cc0b6839990596da3232a9aa65c6"
+      "hash": "0c77f43731952e14c3e90b17ae206c68f895eda5"
     },
     "be.cyrillacroix.roomexamplecyril": {
       "revision": "HEAD",
-      "hash": "ef99a2839d65453475e2cee47496c46dc4f518c9"
+      "hash": "56997678386485c1958a04c98d88a463b2df2d9d"
     },
     "be.eloistree.androidturnaroundaccelero": {
       "revision": "HEAD",
       "hash": "807ae964d51366735ff28ddcbaddd94b4da023e9"
     },
-    "be.eloistree.calibrationtools": {
+    "be.eloistree.debugcharactervr": {
       "revision": "HEAD",
-      "hash": "55eb6c556eb1bacd04e0ff2930a11ffde7e62212"
+      "hash": "6e400c355ccd9cb32c9e6db2d7c99a36f043348f"
     },
     "be.eloistree.ffmpeginunity": {
       "revision": "HEAD",
-      "hash": "121cd350e011ac867903036840c53252be24c96a"
+      "hash": "8a635457939d6c717a571ebddceea95fa936454d"
+    },
+    "be.eloistree.gizmotools": {
+      "revision": "HEAD",
+      "hash": "1f85aa60f1a16bb09901f6d4199300e1ccac0417"
     },
     "be.eloistree.isinview": {
       "revision": "HEAD",
@@ -80,7 +99,7 @@
     },
     "be.eloistree.jimmyscreamfps": {
       "revision": "HEAD",
-      "hash": "2e45a549bef23e71bbae9cee4a08f524047c8641"
+      "hash": "c6616793f544faed4ad166a94981facbb74cd721"
     },
     "be.eloistree.launchbatandahk": {
       "revision": "HEAD",
@@ -88,7 +107,11 @@
     },
     "be.eloistree.magicdoorscore": {
       "revision": "HEAD",
-      "hash": "9d64c411838ddcadd0346275d67ff1a723b51d7c"
+      "hash": "fb278dc59547780e49f2737d9d8986c262c54b07"
+    },
+    "be.eloistree.magicdoorsroompattern": {
+      "revision": "HEAD",
+      "hash": "624b3432be947a9c44ad002587e31f119c21b72f"
     },
     "be.eloistree.quickgitutility": {
       "revision": "HEAD",
@@ -100,7 +123,7 @@
     },
     "be.eloistree.stereorecorder": {
       "revision": "HEAD",
-      "hash": "5be80f905d0cd7fd72666d1ae774eab35f22ea6e"
+      "hash": "97d4ba14db9977eccbc9e7fa9400ac7465292b28"
     },
     "be.eloistree.stereoviewer": {
       "revision": "HEAD",
@@ -114,37 +137,41 @@
       "revision": "HEAD",
       "hash": "11e8314a940c791a96907d85673c297f4b7f9a42"
     },
+    "be.eloistree.virtualrealitydebughands": {
+      "revision": "HEAD",
+      "hash": "2f82ab9588f368f971f20504a16048ff5cbafa96"
+    },
     "be.epistache.room": {
       "revision": "HEAD",
-      "hash": "47d868a765c1bceebc00f0d60daa18a021594534"
+      "hash": "0c7a543a9f9526005e66204d624dc32808ba6a1e"
     },
     "be.laetitia.room": {
       "revision": "HEAD",
-      "hash": "8d604678b41ad4f8ad5d3ed425eadf87c94ff011"
+      "hash": "edf72a1bf3f14338bae0e190087f8f39da4189f3"
     },
     "be.lorenaquaranta.roomexamplelorena": {
       "revision": "HEAD",
-      "hash": "d9fe216b11ef0ccde0f370dac1d5860a190748c2"
+      "hash": "c2108eb3442fe944af1adaa714eae564a2e1baaa"
     },
     "be.louislebrun.firstroom": {
       "revision": "HEAD",
-      "hash": "633dae3cc8a9b3fc0bbd5182997a5b17f8d5e15a"
+      "hash": "5676cef5a6d8cedbaa453bd504969af2a10ed088"
     },
     "be.minaoumzil.roomnumberonetest": {
       "revision": "HEAD",
-      "hash": "37bbec0bc1471374daf9ff19e71a678dcda5890c"
+      "hash": "a885778667cc028e4158fe444bed2ae4e5ab4976"
     },
     "be.nihiilus.anthonyroom": {
       "revision": "HEAD",
-      "hash": "b86645177ff5d990f1d441b0d7eddb2bc645784a"
+      "hash": "104e747eda0e2f6f66fa128cdc9e22e927efbd51"
     },
     "be.noefalesse.magicroom": {
       "revision": "HEAD",
-      "hash": "c7f6875e5ee35d5bac5dd9653d916d9fc3a06f52"
+      "hash": "0425e4debd3faf3b31c0bd10b3336ea2ad1512e0"
     },
     "be.vansantensebastien.sebar": {
       "revision": "HEAD",
-      "hash": "f25e33fa73e276499f3af8ce2d32f92be3489287"
+      "hash": "c8d699e7ef2894d51735b636747449201824e90c"
     },
     "be.wostynthomas.room": {
       "revision": "HEAD",
