@@ -16,7 +16,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1895949987716074642
 Transform:
   m_ObjectHideFlags: 0
@@ -43,9 +43,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15209f09403ee554f91d8289d7e4153e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_directLinkToPrefabs: []
-  m_folderTLoadPrefabsOf:
-  - MagicDoorShowable
-  - MagicDoorPrototype
-  - MagicDoorRelease
+  m_directLinkToPrefabs:
+  - {fileID: 9075010787410527030, guid: 1f128520eb0ce3c44a2d9744631e1999, type: 3}
+  - {fileID: 5376398717090137241, guid: cfe71214a814f3643b62011a54920235, type: 3}
+  - {fileID: 4918215204363477931, guid: 3a3b80d8f139acd459d81e29de7348a7, type: 3}
+  - {fileID: 2750470667113650006, guid: afdfcf22dc78a5d4eaa9752afcc7eb40, type: 3}
+  - {fileID: 8447555648266581281, guid: e8ee1761261f76f489a856d2e0ef3c85, type: 3}
+  - {fileID: 657882357448321849, guid: a3c333de4de22be4c83151c47346510b, type: 3}
+  - {fileID: 6648917124430174442, guid: 583ff23417fea3a43a2fdbbac77ce637, type: 3}
+  - {fileID: 5594004109738700596, guid: 5e9b6e842460966488b91530fbfb3ee3, type: 3}
+  - {fileID: 821796219500521847, guid: b86931bec48ff6a429d3a115f64d3a0e, type: 3}
+  - {fileID: 856296822981146287, guid: af6a602c6f7f91943ab1835c13ca5e36, type: 3}
+  - {fileID: 7934192398464814667, guid: 0caa6d4f35cad7247882f7c2f43ae95c, type: 3}
+  - {fileID: 4291166733858359124, guid: b24519c49b705564ba8322dfa29662a3, type: 3}
+  m_folderTLoadPrefabsOf: []
   m_resourcesRoomPrefabs: []

@@ -16,10 +16,16 @@ public class DebugMagicRoomKeyboard : MonoBehaviour
     public MagicDoubleDoorSwitcher m_magicSwitcher;
     public MagicRoomLoader m_allStudentTechno;
     public MagicRoomLoader m_bestOf;
-    
+
+
+    private void Start()
+    {
+        SwitchJimmyScreamerAndTexts();
+    }
+
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.O))
+        if (Input.GetKeyDown(KeyCode.P))
         {
             m_displayBestLoader = !m_displayBestLoader;
             if (m_displayBestLoader)
@@ -37,12 +43,7 @@ public class DebugMagicRoomKeyboard : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.J)|| Input.GetKeyDown(KeyCode.KeypadPeriod))
         {
-            SwitchGameObject(m_jimmy);
-            for (int i = 0; i < m_debugCanvas.Length; i++)
-            {
-
-            SwitchGameObject(m_debugCanvas[i]);
-            }
+            SwitchJimmyScreamerAndTexts();
         }
         if (Input.GetKeyDown(KeyCode.Keypad1))
         {
@@ -82,6 +83,17 @@ public class DebugMagicRoomKeyboard : MonoBehaviour
         }
 
     }
+
+    private void SwitchJimmyScreamerAndTexts()
+    {
+        SwitchGameObject(m_jimmy);
+        for (int i = 0; i < m_debugCanvas.Length; i++)
+        {
+
+            SwitchGameObject(m_debugCanvas[i]);
+        }
+    }
+
     public void SwitchGameObject(GameObject target) {
         target.SetActive(!target.activeSelf);
 

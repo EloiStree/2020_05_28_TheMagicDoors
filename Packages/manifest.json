@@ -35,7 +35,9 @@
     "com.unity.timeline": "1.2.14",
     "com.unity.ugui": "1.0.0",
     "com.unity.xr.management": "3.2.10",
+    "com.unity.xr.mock-hmd": "1.0.1-preview.7",
     "com.unity.xr.oculus": "1.3.4",
+    "com.unity.xr.windowsmr": "2.1.5",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.assetbundle": "1.0.0",
@@ -109,6 +111,10 @@
       "revision": "HEAD",
       "hash": "fb278dc59547780e49f2737d9d8986c262c54b07"
     },
+    "be.eloistree.magicdoorsroompattern": {
+      "revision": "HEAD",
+      "hash": "e8ca58048be106b0cb46bc212ea5a6fba9d9faf3"
+    },
     "be.eloistree.quickgitutility": {
       "revision": "HEAD",
       "hash": "9af1ead66e51669617f5b0b34cd1fb40cd366eb3"
@@ -159,7 +165,7 @@
     },
     "be.nihiilus.anthonyroom": {
       "revision": "HEAD",
-      "hash": "e370fc91a84086733b130c7fab2fa60487916351"
+      "hash": "f2a21faa1281229e7a072838defe162db4b3f0a4"
     },
     "be.noefalesse.magicroom": {
       "revision": "HEAD",
@@ -172,10 +178,6 @@
     "be.wostynthomas.room": {
       "revision": "HEAD",
       "hash": "976b844c9110bda0c111d40f6d4051422ea19dec"
-    },
-    "be.eloistree.magicdoorsroompattern": {
-      "revision": "HEAD",
-      "hash": "e8ca58048be106b0cb46bc212ea5a6fba9d9faf3"
     }
   }
 }

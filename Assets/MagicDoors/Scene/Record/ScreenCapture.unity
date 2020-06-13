@@ -956,7 +956,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!108 &332746748
 Light:
   m_ObjectHideFlags: 0
@@ -970,7 +970,7 @@ Light:
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
-  m_Range: 3
+  m_Range: 5.2
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -1506,12 +1506,35 @@ PrefabInstance:
     - target: {fileID: 1895949987716074643, guid: ec20ff720fd71634d9eb050550467f0d,
         type: 3}
       propertyPath: m_directLinkToPrefabs.Array.size
-      value: 0
+      value: 12
       objectReference: {fileID: 0}
+    - target: {fileID: 1895949987716074643, guid: ec20ff720fd71634d9eb050550467f0d,
+        type: 3}
+      propertyPath: m_directLinkToPrefabs.Array.data[12]
+      value: 
+      objectReference: {fileID: 9075010787410527030, guid: 1f128520eb0ce3c44a2d9744631e1999,
+        type: 3}
+    - target: {fileID: 1895949987716074643, guid: ec20ff720fd71634d9eb050550467f0d,
+        type: 3}
+      propertyPath: m_directLinkToPrefabs.Array.data[11]
+      value: 
+      objectReference: {fileID: 4291166733858359124, guid: b24519c49b705564ba8322dfa29662a3,
+        type: 3}
+    - target: {fileID: 1895949987716074643, guid: ec20ff720fd71634d9eb050550467f0d,
+        type: 3}
+      propertyPath: m_directLinkToPrefabs.Array.data[0]
+      value: 
+      objectReference: {fileID: 9075010787410527030, guid: 1f128520eb0ce3c44a2d9744631e1999,
+        type: 3}
     - target: {fileID: 1895949987716074644, guid: ec20ff720fd71634d9eb050550467f0d,
         type: 3}
       propertyPath: m_Name
       value: Magic Room Loader Default (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1895949987716074644, guid: ec20ff720fd71634d9eb050550467f0d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ec20ff720fd71634d9eb050550467f0d, type: 3}
@@ -1926,9 +1949,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7daf309eb8928ee4890e5be53eb8cb00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_prebuildFormat: '"C:\MyQuarantineGroupWorkplace\MagicDoor\2020_05_28_TheMagicDoors\ffmpeg\bin\ffmpeg"
-    -i C:\MyQuarantineGroupWorkplace\MagicDoor\2020_05_28_TheMagicDoors\Export\Merge\MergeResult.mp4
-    -filter:v "setpts = 5 * PTS" C:\MyQuarantineGroupWorkplace\MagicDoor\2020_05_28_TheMagicDoors\Export\Merge\MergeResultSlow.mp4'
+  m_prebuildFormat: '"C:\MyQuarantineGroupWorkplace\MagicDoor\Git\2020_05_28_TheMagicDoors\ffmpeg\bin\ffmpeg"
+    -i C:\MyQuarantineGroupWorkplace\MagicDoor\Git\2020_05_28_TheMagicDoors\Export\Merge\MergeResult.mp4
+    -filter:v "setpts = 5 * PTS" C:\MyQuarantineGroupWorkplace\MagicDoor\Git\2020_05_28_TheMagicDoors\Export\Merge\MergeResultSlow.mp4'
   m_relativePathToSpeedUp: Export\Merge\MergeResult.mp4
   m_relativePathResult: Export\Merge\MergeResultSlow.mp4
   m_speedUpMultiplicator: 0.2
@@ -1944,9 +1967,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c43e8f69bf048e849827ea1612a80b03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_prebuildFormat: '"C:\MyQuarantineGroupWorkplace\MagicDoor\2020_05_28_TheMagicDoors\ffmpeg\bin\ffmpeg" 
-    -y -r 60 -f image2 -s 1920x1080 -i C:\MyQuarantineGroupWorkplace\MagicDoor\2020_05_28_TheMagicDoors\Images\Image_%04d.png
-    -vcodec libx264 -crf 25  -pix_fmt yuv420p C:\MyQuarantineGroupWorkplace\MagicDoor\2020_05_28_TheMagicDoors\Export\DefaultExport.mp4'
+  m_prebuildFormat: '"C:\MyQuarantineGroupWorkplace\MagicDoor\Git\2020_05_28_TheMagicDoors\ffmpeg\bin\ffmpeg" 
+    -y -r 60 -f image2 -s 1920x1080 -i C:\MyQuarantineGroupWorkplace\MagicDoor\Git\2020_05_28_TheMagicDoors\Images\Image_%04d.png
+    -vcodec libx264 -crf 25  -pix_fmt yuv420p C:\MyQuarantineGroupWorkplace\MagicDoor\Git\2020_05_28_TheMagicDoors\Export\DefaultExport.mp4'
   m_pathImagesFolder: Images
   m_pathExportFolder: Export
   m_videoExportName: DefaultExport.mp4
@@ -2358,6 +2381,26 @@ PrefabInstance:
       propertyPath: field of view
       value: 85
       objectReference: {fileID: 0}
+    - target: {fileID: 164469903708506771, guid: d0118dbfb2e0b8e409e0040e797cebea,
+        type: 3}
+      propertyPath: m_BackGroundColor.r
+      value: 0.16037738
+      objectReference: {fileID: 0}
+    - target: {fileID: 164469903708506771, guid: d0118dbfb2e0b8e409e0040e797cebea,
+        type: 3}
+      propertyPath: m_BackGroundColor.g
+      value: 0.16037738
+      objectReference: {fileID: 0}
+    - target: {fileID: 164469903708506771, guid: d0118dbfb2e0b8e409e0040e797cebea,
+        type: 3}
+      propertyPath: m_BackGroundColor.b
+      value: 0.16037738
+      objectReference: {fileID: 0}
+    - target: {fileID: 164469903708506774, guid: d0118dbfb2e0b8e409e0040e797cebea,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 164469904802816012, guid: d0118dbfb2e0b8e409e0040e797cebea,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -2388,15 +2431,55 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 1.228728
       objectReference: {fileID: 0}
+    - target: {fileID: 164469904963057412, guid: d0118dbfb2e0b8e409e0040e797cebea,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.03
+      objectReference: {fileID: 0}
     - target: {fileID: 164469904963057415, guid: d0118dbfb2e0b8e409e0040e797cebea,
         type: 3}
       propertyPath: field of view
       value: 85
       objectReference: {fileID: 0}
+    - target: {fileID: 164469904963057415, guid: d0118dbfb2e0b8e409e0040e797cebea,
+        type: 3}
+      propertyPath: m_BackGroundColor.r
+      value: 0.16037738
+      objectReference: {fileID: 0}
+    - target: {fileID: 164469904963057415, guid: d0118dbfb2e0b8e409e0040e797cebea,
+        type: 3}
+      propertyPath: m_BackGroundColor.g
+      value: 0.16037738
+      objectReference: {fileID: 0}
+    - target: {fileID: 164469904963057415, guid: d0118dbfb2e0b8e409e0040e797cebea,
+        type: 3}
+      propertyPath: m_BackGroundColor.b
+      value: 0.16037738
+      objectReference: {fileID: 0}
+    - target: {fileID: 164469904963057415, guid: d0118dbfb2e0b8e409e0040e797cebea,
+        type: 3}
+      propertyPath: m_NormalizedViewPortRect.width
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8554440875671052078, guid: d0118dbfb2e0b8e409e0040e797cebea,
         type: 3}
       propertyPath: m_fieldOfView
       value: 85
+      objectReference: {fileID: 0}
+    - target: {fileID: 8554440875671052078, guid: d0118dbfb2e0b8e409e0040e797cebea,
+        type: 3}
+      propertyPath: m_backgroundColor.r
+      value: 0.16037738
+      objectReference: {fileID: 0}
+    - target: {fileID: 8554440875671052078, guid: d0118dbfb2e0b8e409e0040e797cebea,
+        type: 3}
+      propertyPath: m_backgroundColor.g
+      value: 0.16037738
+      objectReference: {fileID: 0}
+    - target: {fileID: 8554440875671052078, guid: d0118dbfb2e0b8e409e0040e797cebea,
+        type: 3}
+      propertyPath: m_backgroundColor.b
+      value: 0.16037738
       objectReference: {fileID: 0}
     - target: {fileID: 8554440875671052079, guid: d0118dbfb2e0b8e409e0040e797cebea,
         type: 3}
@@ -3657,7 +3740,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1894148646}
-  - component: {fileID: 1894148647}
   m_Layer: 0
   m_Name: Images 2 Video
   m_TagString: Untagged
@@ -3679,18 +3761,6 @@ Transform:
   m_Father: {fileID: 192655392}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1894148647
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1894148645}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7bdbd93515ad53e409e784b69b7f4005, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1921076038
 GameObject:
   m_ObjectHideFlags: 0
