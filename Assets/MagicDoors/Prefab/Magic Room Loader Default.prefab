@@ -56,5 +56,6 @@ MonoBehaviour:
   - {fileID: 856296822981146287, guid: af6a602c6f7f91943ab1835c13ca5e36, type: 3}
   - {fileID: 7934192398464814667, guid: 0caa6d4f35cad7247882f7c2f43ae95c, type: 3}
   - {fileID: 4291166733858359124, guid: b24519c49b705564ba8322dfa29662a3, type: 3}
+  - {fileID: 4084206658052719591, guid: 707732437a60e2340a926cea7c820d76, type: 3}
   m_folderTLoadPrefabsOf: []
   m_resourcesRoomPrefabs: []

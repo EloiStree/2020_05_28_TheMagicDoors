@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MagicDoors/Scene/SceneVisitDoubleRooms.unity
     guid: dee231183edfb54488eebb27bca5dcd9
+  - enabled: 1
+    path: Assets/MagicDoorsTechnocite/ToolAll.unity
+    guid: fb5c1b925e21ae04da6d3fa916508de5
   - enabled: 0
     path: Assets/MagicDoors/Scene/SceneVisitOneByOne.unity
     guid: 69bd82fb749457a4481e3504531efeb3
@@ -17,4 +20,6 @@ EditorBuildSettings:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 5c3f0d7a44c8d7841aacfac0eb7d6094,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 410ab431d9f3af147ba72924168290cd,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 0faae7232e8747a45bd34fdcc34ccd2f,
       type: 2}

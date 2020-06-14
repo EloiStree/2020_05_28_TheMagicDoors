@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 657882357448321850}
+  - component: {fileID: 2078561646}
   m_Layer: 0
   m_Name: Techno_Lorena
   m_TagString: Untagged
@@ -32,6 +33,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2078561646
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 657882357448321849}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dff1c63dffd8e20489198b5bf06d98d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_info:
+    m_pseudonym: Lorena
+    m_howToContact: 
 --- !u!1001 &657882356822908171
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -42,12 +58,12 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: 4c665bedcc66ef047a4b0ac120e92d2a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 4c665bedcc66ef047a4b0ac120e92d2a,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.01
+      value: -0.023
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 4c665bedcc66ef047a4b0ac120e92d2a,
         type: 3}
@@ -93,6 +109,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 4c665bedcc66ef047a4b0ac120e92d2a,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.0000005
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 4c665bedcc66ef047a4b0ac120e92d2a,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.0043038
       objectReference: {fileID: 0}
     - target: {fileID: -1504981713932161579, guid: 4c665bedcc66ef047a4b0ac120e92d2a,
         type: 3}

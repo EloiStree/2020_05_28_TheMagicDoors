@@ -176,6 +176,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7934192398464814666}
+  - component: {fileID: 648228622}
   m_Layer: 0
   m_Name: Techno_Sebastien
   m_TagString: Untagged
@@ -196,17 +197,32 @@ Transform:
   m_Children:
   - {fileID: 7927443854555193943}
   - {fileID: 2339869925782378161}
-  - {fileID: 7934192398614975068}
+  - {fileID: 4210834899859103908}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &648228622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7934192398464814667}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dff1c63dffd8e20489198b5bf06d98d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_info:
+    m_pseudonym: Sebastien
+    m_howToContact: 
 --- !u!114 &1614002040
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7934192398614975232}
+  m_GameObject: {fileID: 2038513339199930043}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 26635a351cb30ac418d0e1b407a64970, type: 3}
@@ -410,13 +426,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2be2cebe095bbba4e9a8eb1729cd3c62, type: 3}
---- !u!4 &7934192398614975068 stripped
+--- !u!4 &4210834899859103908 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6085504368288183123, guid: 2be2cebe095bbba4e9a8eb1729cd3c62,
     type: 3}
   m_PrefabInstance: {fileID: 7934192398614975479}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &7934192398614975232 stripped
+--- !u!1 &2038513339199930043 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8237550907150363980, guid: 2be2cebe095bbba4e9a8eb1729cd3c62,
     type: 3}
