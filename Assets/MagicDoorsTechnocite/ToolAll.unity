@@ -1098,7 +1098,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1113692784}
   - component: {fileID: 1113692783}
-  - component: {fileID: 1113692782}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1106,14 +1105,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &1113692782
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1113692781}
-  m_Enabled: 1
 --- !u!20 &1113692783
 Camera:
   m_ObjectHideFlags: 0
@@ -2361,6 +2352,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 321569355466424630, guid: 707732437a60e2340a926cea7c820d76,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 899209268817907335, guid: 707732437a60e2340a926cea7c820d76,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.942
+      objectReference: {fileID: 0}
+    - target: {fileID: 2901864657084641501, guid: 707732437a60e2340a926cea7c820d76,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.954
+      objectReference: {fileID: 0}
+    - target: {fileID: 3008992374307005565, guid: 707732437a60e2340a926cea7c820d76,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3428890163520050509, guid: 707732437a60e2340a926cea7c820d76,
         type: 3}
       propertyPath: m_IsActive
@@ -2370,6 +2381,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Techno_Thomas
+      objectReference: {fileID: 0}
+    - target: {fileID: 4165249763143734969, guid: 707732437a60e2340a926cea7c820d76,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.927
       objectReference: {fileID: 0}
     - target: {fileID: 8971065231059320721, guid: 707732437a60e2340a926cea7c820d76,
         type: 3}

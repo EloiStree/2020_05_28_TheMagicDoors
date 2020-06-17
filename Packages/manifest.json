@@ -11,18 +11,23 @@
     "be.eloistree.ingamecredit": "https://gitlab.com/eloistree/2020_06_13_InGameCredit.git",
     "be.eloistree.isinview": "https://gitlab.com/EloiStree/2020_05_28_IsInView.git",
     "be.eloistree.jimmyscreamfps": "https://gitlab.com/EloiStree/2020_05_28_JimmyScreamFPS.git",
+    "be.eloistree.justlasers": "https://gitlab.com/eloistree/2019_01_23_justlasers.git",
     "be.eloistree.launchbatandahk": "https://gitlab.com/eloistree/2020_03_22_LaunchBatAndAhk.git",
     "be.eloistree.lookingeyesforvr": "https://gitlab.com/EloiStree/2020_06_10_LookingEyesForVR.git",
     "be.eloistree.magicdoorscore": "https://gitlab.com/eloistree/2020_05_28_MagicDoorsCore.git",
     "be.eloistree.magicdoorsroompattern": "https://github.com/EloiStree/2020_05_28_MagicDoorsRoomPattern.git",
     "be.eloistree.questhandapitotransform": "https://gitlab.com/eloistree/2019_12_28_questhandapitotransform.git",
     "be.eloistree.quickgitutility": "https://www.github.com/eloistree/2019_07_21_QuickGitUtility.git",
+    "be.eloistree.radiocomments": "https://github.com/EloiStree/2020_06_16_RadioComments.git",
+    "be.eloistree.radiocommentsdemo": "https://github.com/EloiStree/2020_06_16_RadioCommentsDemo.git",
     "be.eloistree.readytouseandroidassetdisplayer": "https://gitlab.com/EloiStree/2020_06_08_ReadyToUseAndroidAssetDisplayer.git",
+    "be.eloistree.roomlasersdemo": "https://github.com/EloiStree/2020_06_15_EloiMagicDoorJustLasersDemo.git",
     "be.eloistree.stereorecorder": "https://gitlab.com/eloistree/2020_06_06_StereoRecorder.git",
     "be.eloistree.stereoviewer": "https://gitlab.com/eloistree/2020_06_06_StereoViewer.git",
     "be.eloistree.unitydirectorystorageutility": "https://gitlab.com/eloistree/2020_04_28_UnityDirectoryStorageUtility.git",
     "be.eloistree.unitypackagefacilitator": "https://www.github.com/eloistree/2019_07_21_UnityPackageFacilitator.git",
     "be.eloistree.virtualrealitydebughands": "https://gitlab.com/eloistree/2019_06_30_VirtualRealityDebugHands.git",
+    "be.eloistree.virtualrealitytags": "https://gitlab.com/eloistree/2020_06_17_VirtualRealityTags.git",
     "be.epistache.room": "https://github.com/Epistache/Eloi_Techno_Epistache.git",
     "be.laetitia.room": "https://github.com/xPixelle/2020_06_02_LaetitiaRoom_Test.git",
     "be.lorenaquaranta.roomexamplelorena": "https://github.com/Lorena1804/2020_06_02_QuarantaLorena_MagicDoorRoom.git",
@@ -30,7 +35,7 @@
     "be.minaoumzil.roomnumberonetest": "https://github.com/Medusart/2020_06_02_Mina_Oumzil.git",
     "be.nihiilus.anthonyroom": "https://github.com/Nihiilus/2020_06_02_MagicDoorRoom_Anthony.git",
     "be.noefalesse.magicroom": "https://github.com/IkaNamTheIncongruous/Noe_Falesse_Git_Magicroom.git",
-    "be.thomas.dinner": "https://github.com/WeeweeLSP/2020_06_02_UnityGitExo.git#89624e2eb35a298d24ed9260dab1dfa4784963bd",
+    "be.thomas.dinner": "https://github.com/WeeweeLSP/2020_06_02_UnityGitExo.git",
     "be.vansantensebastien.sebar": "https://github.com/sebastien-vansanten/2020_06_02_MyMagicRoom_Seb.git",
     "com.unity.ide.vscode": "1.2.0",
     "com.unity.textmeshpro": "2.0.1",
@@ -67,7 +72,7 @@
     },
     "be.coloniuslory.room": {
       "revision": "HEAD",
-      "hash": "e9c33d20233808450f855c83171684b974c2b1b7"
+      "hash": "7560094be90127898e37cf092a952bda8f6f3864"
     },
     "be.corentinh.room": {
       "revision": "HEAD",
@@ -105,6 +110,10 @@
       "revision": "HEAD",
       "hash": "c6616793f544faed4ad166a94981facbb74cd721"
     },
+    "be.eloistree.justlasers": {
+      "revision": "HEAD",
+      "hash": "f3521c6ee5cce2113fb59c30d446acd9d910d5e2"
+    },
     "be.eloistree.launchbatandahk": {
       "revision": "HEAD",
       "hash": "b715b52ec064bf3a9bbfb0b4b092651e72ee182b"
@@ -121,13 +130,29 @@
       "revision": "HEAD",
       "hash": "e8ca58048be106b0cb46bc212ea5a6fba9d9faf3"
     },
+    "be.eloistree.questhandapitotransform": {
+      "revision": "HEAD",
+      "hash": "2801a8c586f066b4493d541beb3d123f36523cde"
+    },
     "be.eloistree.quickgitutility": {
       "revision": "HEAD",
       "hash": "9af1ead66e51669617f5b0b34cd1fb40cd366eb3"
     },
+    "be.eloistree.radiocomments": {
+      "revision": "HEAD",
+      "hash": "b8720634e4eeb003126c4b34223e22a84817e382"
+    },
+    "be.eloistree.radiocommentsdemo": {
+      "revision": "HEAD",
+      "hash": "43967c395b1bfdcdae4daf83588ca6b5704f91f3"
+    },
     "be.eloistree.readytouseandroidassetdisplayer": {
       "revision": "HEAD",
       "hash": "630f3e7875d4dc3cbe1c37404e811f13abeea440"
+    },
+    "be.eloistree.roomlasersdemo": {
+      "revision": "HEAD",
+      "hash": "3b7429d084e55cfb5a629537ddfbfade98acc666"
     },
     "be.eloistree.stereorecorder": {
       "revision": "HEAD",
@@ -148,6 +173,10 @@
     "be.eloistree.virtualrealitydebughands": {
       "revision": "HEAD",
       "hash": "2f82ab9588f368f971f20504a16048ff5cbafa96"
+    },
+    "be.eloistree.virtualrealitytags": {
+      "revision": "HEAD",
+      "hash": "8eed0423583fbaaf0a78bbbfe1a5d0c4dda21af4"
     },
     "be.epistache.room": {
       "revision": "HEAD",
@@ -171,23 +200,19 @@
     },
     "be.nihiilus.anthonyroom": {
       "revision": "HEAD",
-      "hash": "f2a21faa1281229e7a072838defe162db4b3f0a4"
+      "hash": "52280668a7a862e8e34893b5721c51e14fb175fa"
     },
     "be.noefalesse.magicroom": {
       "revision": "HEAD",
       "hash": "0425e4debd3faf3b31c0bd10b3336ea2ad1512e0"
     },
     "be.thomas.dinner": {
-      "revision": "89624e2eb35a298d24ed9260dab1dfa4784963bd",
-      "hash": "89624e2eb35a298d24ed9260dab1dfa4784963bd"
+      "revision": "HEAD",
+      "hash": "3d3cd68a39cbfde799bdad1c4752632c681687df"
     },
     "be.vansantensebastien.sebar": {
       "revision": "HEAD",
       "hash": "e4bd4bc5c7ab702c5d1f4f1d8fc0a71777b5c59b"
-    },
-    "be.eloistree.questhandapitotransform": {
-      "revision": "HEAD",
-      "hash": "2801a8c586f066b4493d541beb3d123f36523cde"
     }
   }
 }
