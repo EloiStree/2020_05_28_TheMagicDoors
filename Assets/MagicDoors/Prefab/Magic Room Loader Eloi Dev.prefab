@@ -11,12 +11,12 @@ GameObject:
   - component: {fileID: 1895949987716074642}
   - component: {fileID: 1895949987716074643}
   m_Layer: 0
-  m_Name: Magic Room Loader
+  m_Name: Magic Room Loader Eloi Dev
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1895949987716074642
 Transform:
   m_ObjectHideFlags: 0
@@ -43,12 +43,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15209f09403ee554f91d8289d7e4153e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_directLinkToPrefabs:
-  - {fileID: 5318726972793820047, guid: 3e2d6bdf40a9fc34d95c25b3516c0b47, type: 3}
-  - {fileID: 5366109804637016170, guid: 53d3e3d1ddb869140b55a0a0859ff0ec, type: 3}
+  m_directLinkToPrefabs: []
   m_folderTLoadPrefabsOf:
-  - MagicRoomsDemo
-  - MagicDoorPrototype
-  - MagicDoorRelease
-  - MagicDoorShowable
+  - MagicDoorDeveloperDemo
+  - LasersRoomPrefab
   m_resourcesRoomPrefabs: []

@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/MagicDoorsTechnocite/ToolAll.unity
+    guid: fb5c1b925e21ae04da6d3fa916508de5
+  - enabled: 1
     path: Assets/MagicDoors/Scene/SceneVisitDoubleRooms.unity
     guid: dee231183edfb54488eebb27bca5dcd9
   - enabled: 1
-    path: Assets/MagicDoorsTechnocite/ToolAll.unity
-    guid: fb5c1b925e21ae04da6d3fa916508de5
-  - enabled: 0
     path: Assets/MagicDoors/Scene/SceneVisitOneByOne.unity
     guid: 69bd82fb749457a4481e3504531efeb3
   m_configObjects:
