@@ -213,10 +213,15 @@ PrefabInstance:
       propertyPath: m_Name
       value: Room Pattern With Debug And Collision
       objectReference: {fileID: 0}
+    - target: {fileID: 1482546065987088144, guid: ffa80c49286f940479da13091e696378,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5077938232496458264, guid: ffa80c49286f940479da13091e696378,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -10
       objectReference: {fileID: 0}
     - target: {fileID: 5077938232496458264, guid: ffa80c49286f940479da13091e696378,
         type: 3}
