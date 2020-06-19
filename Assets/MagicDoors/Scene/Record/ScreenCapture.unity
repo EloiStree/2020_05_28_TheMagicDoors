@@ -1503,38 +1503,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1895949987716074643, guid: ec20ff720fd71634d9eb050550467f0d,
-        type: 3}
-      propertyPath: m_directLinkToPrefabs.Array.size
-      value: 12
-      objectReference: {fileID: 0}
-    - target: {fileID: 1895949987716074643, guid: ec20ff720fd71634d9eb050550467f0d,
-        type: 3}
-      propertyPath: m_directLinkToPrefabs.Array.data[12]
-      value: 
-      objectReference: {fileID: 9075010787410527030, guid: 1f128520eb0ce3c44a2d9744631e1999,
-        type: 3}
-    - target: {fileID: 1895949987716074643, guid: ec20ff720fd71634d9eb050550467f0d,
-        type: 3}
-      propertyPath: m_directLinkToPrefabs.Array.data[11]
-      value: 
-      objectReference: {fileID: 4291166733858359124, guid: b24519c49b705564ba8322dfa29662a3,
-        type: 3}
-    - target: {fileID: 1895949987716074643, guid: ec20ff720fd71634d9eb050550467f0d,
-        type: 3}
-      propertyPath: m_directLinkToPrefabs.Array.data[0]
-      value: 
-      objectReference: {fileID: 9075010787410527030, guid: 1f128520eb0ce3c44a2d9744631e1999,
-        type: 3}
     - target: {fileID: 1895949987716074644, guid: ec20ff720fd71634d9eb050550467f0d,
         type: 3}
       propertyPath: m_Name
       value: Magic Room Loader Default (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1895949987716074644, guid: ec20ff720fd71634d9eb050550467f0d,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ec20ff720fd71634d9eb050550467f0d, type: 3}
