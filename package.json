@@ -7,7 +7,7 @@
   "unityRelease": "",                             
   "description": "Useful to quickly drag and drop a character to move around in the VR Scene. Not clean at all and not fit for product. Just for Debug.",                         
   "keywords": ["Script","Tool"],                       
-  "dependencies":{},     
+  "dependencies":{ "be.eloistree.license":"0.0.1"},     
   "relatedPackages":{},     
   "samples" : [],     
   "author" : {
